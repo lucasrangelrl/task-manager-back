@@ -8,6 +8,7 @@ Cada tarefa possui um ID autoincrement e descrição.
 - Sqlite
 
 ## Como rodar
+- Clone o projeto
 - Instale o javascript
 - Instale o Node JS, documentação em: https://nodejs.org/docs/latest/api/
 - Rode o comando npm install, que instalará todas as dependências do projeto
