@@ -1,5 +1,5 @@
 # Gerenciador de Tarefas Back
-Trabalho da matéria de Web, Sistema de Gerencimanto de tarefas, feito com Node Js e sqlite. Nele o usuário pode criar, atualizar, deletar e ler suas tarefas.
+Trabalho da matéria de Desenvolvimento Web, Sistema de Gerencimanto de tarefas, feito com Node Js e sqlite. Nele o usuário pode criar, atualizar, deletar e ler suas tarefas.
 Cada tarefa possui um ID autoincrement e descrição.
 
 ## Tecnologias Utilizadas
