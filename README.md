@@ -13,3 +13,5 @@ Cada tarefa possui um ID autoincrement e descrição.
 - Instale o Node JS, documentação em: https://nodejs.org/docs/latest/api/
 - Rode o comando npm install, que instalará todas as dependências do projeto
 - Rode o comando npm start, que inicializará o servidor na porta 3000
+
+  Feito por: Lucas Rangel
